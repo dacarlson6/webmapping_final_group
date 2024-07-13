@@ -1,6 +1,7 @@
 # Team Name
 
 ### Team Members
+Devin Carlson
 
 ### Final Proposal
 1. Persona/Scenario
